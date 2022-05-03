@@ -1,0 +1,140 @@
+body {
+    background-image: url("https://www.wallpapertip.com/wmimgs/214-2146639_deep-sea-wallpaper-hd-65-deep-sea-wallpaper.png");
+    background-attachment: fixed;
+}
+
+
+h1 {
+    /* display: flex;
+    flex: 1; */
+    font-family:'Tapestry', cursive;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 60px;
+}
+
+.integrantes {
+    position: absolute;
+    top: 5%;
+    color: white;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    border: 0.2rem solid white;
+    width: 15rem;
+    padding-left: 2rem;
+    background-color: rgb(5, 5, 100);
+    border-radius: 2rem;
+}
+
+.perg_1 {
+    /* display: flex;
+    flex: 1; */
+    color: white;
+    position: absolute;
+    bottom: 60%;
+    left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.desc_jogo {
+    /* display: flex;
+    flex: 1; */
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 20px;
+    font-size: 17px;
+    max-width: 750px;
+}
+
+.imagem1 {
+    /* display: flex;
+    flex: 1; */
+    /* width: 50%;
+    height: auto; */
+    position: absolute;
+    left: 49%;
+}
+
+.imagem2 {
+    /* display: flex;
+    flex: 1; */
+    /* width: 50%;
+    height: auto; */
+    position: absolute;
+    left: 73%;
+    bottom: 33%;
+}
+
+.imagem3 {
+    position: absolute;
+    left: 60%;
+    top: 75%;
+}
+
+
+.log {
+    /* display: flex;
+    flex: 1; */
+    color: white;
+    position: absolute;
+    top: 65%;
+    left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.instrucoes {
+    /* display: flex;
+    flex: 1; */
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 86%;
+    left: 20px;
+
+}
+
+.instrucoes_desc {
+    /* display: flex;
+    flex: 1; */
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    position: absolute;
+    top: 91%;
+    left: 0.05px
+}
+
+.baixar {
+    /* display: flex;
+    flex: 1; */
+    color: white;
+    position: absolute;
+    top: 110%;
+    left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.botao_baixar {
+    /* display: flex;
+    flex: 1; */
+    color: white;
+    position: absolute;
+    top: 125%;
+    left: 20px;
+    margin-bottom: 5%;
+}
+
+a {
+    /* display: flex;
+    flex: 1; */
+    color: white;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    border: 0.1rem solid white;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    background-color: dodgerblue;
+    text-decoration: none;
+
+}
