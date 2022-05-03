@@ -1,0 +1,152 @@
+body {
+    background-image: url("https://www.wallpapertip.com/wmimgs/214-2146639_deep-sea-wallpaper-hd-65-deep-sea-wallpaper.png");
+    background-attachment: fixed;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Fugaz One', cursive;
+    font-size: 50px;
+    margin-top: 9%;
+
+}
+
+.alteracoes {
+    display: flex;
+    color: black;
+    border: 0.25rem solid black;
+    background-color: white;
+    border-radius: 3rem;
+    max-width: max-content;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    padding: 0.5rem;
+    position: absolute;
+    top: 1%;
+}
+
+.mergulhador {
+    display: flex;
+    position: absolute;
+    top: 15%;
+}
+
+.tubarao {
+    display: flex;
+    position: absolute;
+    top: 16%;
+    left: 70%;
+}
+
+.desc_jogo_pergunta {
+    display: flex;
+    position: absolute;
+    top: 55%;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.desc_jogo {
+    display: flex;
+    position: absolute;
+    top: 62%;
+    left: 2%;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 50%;
+}
+
+.imagens_titulo {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 22%;
+}
+
+.imagens {
+    display: flex;
+    align-items:flex-start;
+    justify-content: space-around;
+}
+
+.log_titulo {
+    display: flex;
+    align-items: flex-start;
+    color: white;
+    position: absolute;
+    top: 138%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.log {
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    left: 0.1%;
+    top: 145%;
+}
+
+.video_titulo {
+    display: flex;
+    justify-content: center;
+    margin-top: 17%;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+}
+
+.instrucoes_titulo {
+    display: flex;
+    align-items: flex-start;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5%;
+}
+
+.instrucoes_desc {
+    display: flex;
+    align-items: flex-start;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 233%;
+    left: 0.1%;
+}
+
+.botao_baixar {
+    display: flex;
+    color: white;
+    position: absolute;
+    top: 250%;
+    left: 20px;
+}
+
+a {
+    display: flex;
+    color: white;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    border: 0.1rem solid white;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    background-color: dodgerblue;
+    text-decoration: none;
+    position: absolute;
+    top: 258%;
+}
+
+.imagem4 {
+    display: flex;
+    position: absolute;
+    top: 220%;
+    right: 30%;
+}
